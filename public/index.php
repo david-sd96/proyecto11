@@ -12,7 +12,7 @@
       <li><a href="hoja1/ejercicio_6.php">Problema 6</a></li>
       <li><a href="hoja1/ejercicio_7.php">Problema 7</a></li>
       <li></li>
-      <li>Problema 9</li>
+      <li><a href="hoja1/ejercicio_9.php">Problema 9</a></li>
       <li><a href="hoja1/ejercicio_10.php">Problema 10</a></li>
     </ul>
   </li>
