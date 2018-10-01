@@ -10,10 +10,10 @@
       <li><a href="hoja1/ejercicio_4.php">Problema 4</a></li>
       <li><a href="hoja1/ejercicio_5.php">Problema 5</a></li>
       <li><a href="hoja1/ejercicio_6.php">Problema 6</a></li>
-      <li>Problema 7</li>
-      <li>Problema 8</li>
+      <li><a href="hoja1/ejercicio_7.php">Problema 7</a></li>
+      <li></li>
       <li>Problema 9</li>
-      <li>Problema 10</li>
+      <li><a href="hoja1/ejercicio_10.php">Problema 10</a></li>
     </ul>
   </li>
   <li>
