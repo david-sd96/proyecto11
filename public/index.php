@@ -73,4 +73,17 @@
     <li><a href="tema4/post.php">Tema 4 Ejemplo 3</a></li>
   </ul>
 </li>
+<li>
+  <h3>Tema 5</h3>
+  <ul>
+    <li><a href="tema5/inicio.php">Ejemplo sesion</a></li>
+    <li><a href="tema5/cookie.php">Ejemplo cookie</a></li>
+  </ul>
+</li>
+<li>
+  <h3>Tema 6</h3>
+  <ul>
+    <li><a href="tema6/index.php">Ejemplo formulario</a></li>
+  </ul>
+</li>
 </ul>
