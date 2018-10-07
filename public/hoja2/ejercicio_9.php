@@ -11,3 +11,5 @@ for ($i=2; $i < 100; $i++) {
   }
 }
 ?>
+<br><br>
+<a href="../index.php">Regresar al menú</a>
