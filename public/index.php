@@ -37,7 +37,9 @@
       <li><a href="hoja3/ejercicio_2.php">Problema 2</a></li>
       <li><a href="hoja3/ejercicio_3.php">Problema 3</a></li>
       <li><a href="hoja3/ejercicio_4.php">Problema 4</a></li>
-      <li>Problema 5</li>
+      <li><a href="hoja3/ejercicio_5.php">Problema 5</a></li>
+      <li><a href="hoja3/ejercicio_6.php">Problema 6</a></li>
+      <li><a href="hoja3/ejercicio_7.php">Problema 7</a></li>
     </ul>
   </li>
   <li>
@@ -84,6 +86,13 @@
   <h3>Tema 6</h3>
   <ul>
     <li><a href="tema6/index.php">Ejemplo formulario</a></li>
+  </ul>
+</li>
+<li>
+  <h3>Tema 8</h3>
+  <ul>
+    <li><a href="tema8/trim.php">Ejemplo de trim</a></li>
+    <li><a href="tema8/html.php">Ejemplo de funciones de cadenas</a></li>
   </ul>
 </li>
 </ul>
