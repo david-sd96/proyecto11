@@ -1,3 +1,4 @@
+<?php
 if ( ! isset($_POST['nombre']) ) {
   $errores['nombre'] = 'No he recibido el nombre';
 } elseif ( strlen($_POST['nombre']) < 3 ) {
@@ -18,3 +19,4 @@ if ( ! isset($_POST['clave1']) || ! isset($_POST['clave2'])) {
     $errores['clave1'] = "Las claves tienen que ser iguales";
   }
 }
+?>
