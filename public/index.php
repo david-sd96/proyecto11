@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <title>INDEX</title>
+    <style type="text/css">
+      body{
+        background-color: rgb(196, 249, 241);
+      }
+    </style>
+  </head>
+  <body>
+
+  </body>
+</html>
 <h1>Menú de resolución de las hojas de problemas</h1>
 <br>
 <ul>
@@ -93,6 +108,22 @@
   <ul>
     <li><a href="tema8/trim.php">Ejemplo de trim</a></li>
     <li><a href="tema8/html.php">Ejemplo de funciones de cadenas</a></li>
+  </ul>
+</li>
+<li>
+  <h3>Tema 9</h3>
+  <ul>
+    <li><a href="tema9/ejemplo1.php">Ejemplo 1</a></li>
+    <li><a href="tema9/ejemplo2.php">Ejemplo 2 - Citas médicas</a></li>
+    <li><a href="tema9/ejemplo3.php">Ejemplo 3 - Citas médicas</a></li>
+    <li><a href="tema9/ejemplo4.php">Ejemplo 4 - Ver citas médicas</a></li>
+  </ul>
+</li>
+<li>
+  <h3>Tema 11 - Objetos</h3>
+  <ul>
+    <li><a href="tema11/ejemplo1.php">Ejemplo 1 - Clase Freelance</a></li>
+    <li><a href="tema11/ejemplo2.php">Ejemplo 2 - Migas de pan</a></li>
   </ul>
 </li>
 </ul>
