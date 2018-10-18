@@ -6,6 +6,7 @@ $migas = new MigasPan();
 
 $migas->agregarNodo("Home", "https://iescierva.net");
 $migas->agregarNodo("Noticias", "https://iescierva.net/noticias");
-$migas->agregarNodo("Noticias academicas", "https://iescierva.net/noticias");
+$migas->agregarNodo("Noticias academicas",
+  "https://iescierva.net/noticias/academicas");
 echo $migas->mostrar();
 ?>
