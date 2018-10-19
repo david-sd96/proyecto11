@@ -124,7 +124,11 @@
   <ul>
     <li><a href="tema11/ejemplo1.php">Ejemplo 1 - Clase Freelance</a></li>
     <li><a href="tema11/ejemplo2.php">Ejemplo 2 - Migas de pan</a></li>
+    <li><a href="tema11/ejemplo3.php">Ejemplo 3 - Herencia Migas de pan</a></li>
+    <li><a href="tema11/ejemplo4.php">Ejemplo 4 - Abstracción, renderizar
+      plantillas.</a></li>
     <li><a href="tema11/ejPersonaForm.php">Ejemplo Persona</a></li>
+    <li><a href="tema11/ejemplo5.php">Ejemplo 5 - Carrito</a></li>
   </ul>
 </li>
 </ul>
