@@ -74,7 +74,7 @@
             <li>Problema 2</li>
             <li><a href="hoja5/ejercicio_3.php">Problema 3</a></li>
             <li><a href="hoja5/ejercicio_4.php">Problema 4</a></li>
-            <li>Problema 5</li>
+            <li><a href="hoja5/ejercicio_5.php">Problema 5</a></li>
         </ul>
     </li>
     <li>
