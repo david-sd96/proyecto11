@@ -1,10 +1,9 @@
-<!doctype html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
-    <title>Ejercicio 5</title>
-</head>
+
+<?php
+$title = 'Ejercicio 5.5';
+include_once '../partials/header.php'
+?>
+
 <p>Crear dos matrices de 3x3 con números aleatorios entre el 0 y el 9 y calcular su producto.</p>
 <?php
 function putMatrix($size1,$size2=null){
@@ -58,6 +57,4 @@ function productMatrix($matrix1,$matrix2){
         </div>
     </div>
 </div>
-
-<br>
-<a href="../index.php">Regresar al menú</a>
+<?php include_once '../partials/footer.php' ?>

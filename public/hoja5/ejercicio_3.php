@@ -1,3 +1,7 @@
+<?php
+$title = 'Ejercicio 5.3';
+include_once '../partials/header.php'
+?>
 <p>Crear una matriz de 4x7 y que su valor sea el de la suma de sus índices.</p>
 <?php
 
@@ -8,6 +12,5 @@ for ($i=0; $i<4; $i++){
     }
 }
 
+include_once '../partials/footer.php'
 ?>
-<br>
-<a href="../index.php">Regresar al menú</a>

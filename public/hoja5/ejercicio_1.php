@@ -1,4 +1,7 @@
 <?php
+$title = 'Ejercicio 5.1';
+include_once '../partials/header.php';
+
 $randArray = [];
 
 for ($i = 0; $i<10; $i++){
@@ -20,13 +23,12 @@ for ($i = 0; $i<10; $i++){
 }
 
 $quantity = array_count_values($randArray);
-echo '<table><tr><th>Número</th><th>Repeticiones</th></tr>';
+echo '<table class="table"><tr><th>Número</th><th>Repeticiones</th></tr>';
 foreach ($quantity as $key => $val) {
 
     echo '<tr><td>'.$key.'</td><td>'.$val.'</td></tr>';
 }
-echo '</table>'
+echo '</table>';
 
+include_once '../partials/footer.php'
 ?>
-<br>
-<a href="../index.php">Regresar al menú</a>

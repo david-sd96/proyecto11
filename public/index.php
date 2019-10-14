@@ -1,18 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="utf-8">
-    <title>INDEX</title>
-    <style type="text/css">
-        body {
-            background-color: rgb(196, 249, 241);
-        }
-    </style>
-</head>
-<body>
-
-</body>
-</html>
+<?php include 'partials/header.php' ?>
+<body class="text-light bg-dark">
 <h1>Menú de resolución de las hojas de problemas</h1>
 <br>
 <ul>
@@ -83,13 +70,16 @@
             <li><a href="tema3/ejemplo1.php">Tema 3 Ejemplo 1</a></li>
         </ul>
     </li>
-    <h3>Tema 4</h3>
-    <ul>
-        <li><a href="tema4/ejemplo1.html">Tema 4 Ejemplo 1</a></li>
-        <li><a href="tema4/ejemplo2.php">Tema 4 Ejemplo 2</a></li>
-        <li><a href="tema4/post.php">Tema 4 Ejemplo 3</a></li>
-    </ul>
+    <li>
+        <h3>Tema 4</h3>
+        <ul>
+            <li><a href="tema4/ejemplo1.html">Tema 4 Ejemplo 1</a></li>
+            <li><a href="tema4/ejemplo2.php">Tema 4 Ejemplo 2</a></li>
+            <li><a href="tema4/post.php">Tema 4 Ejemplo 3</a></li>
+        </ul>
     </li>
+
+
     <li>
         <h3>Tema 5</h3>
         <ul>
@@ -132,3 +122,4 @@
         </ul>
     </li>
 </ul>
+</body>
